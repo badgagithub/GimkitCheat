@@ -84,5 +84,6 @@
     height: 100vh;
     pointer-events: none;
     color: var(--textColor);
+    font-family: 'Monsteratt', sans-serif; /* Adding Monsteratt font */
 }
 </style>
